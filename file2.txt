@@ -2,3 +2,6 @@ this is file 2
 
 update in file2 branch b1
 update in file 2 branch b2 remote repo
+
+
+update in collaborator account file2
